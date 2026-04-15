@@ -3,33 +3,33 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Optimized-orange?style=for-the-badge)
 
-## 📋 Sobre o Projeto
-Este projeto simula o sistema de classificação de partidas ranqueadas de um jogo. O script calcula o saldo de vitórias em relação às derrotas e categoriza o herói em diferentes elos, desde o **Ferro** até o **Imortal**.
+## 📋 About the Project
+This project simulates a ranked match classification system for games. The script calculates the win/loss balance and categorizes the hero into different ranks, ranging from **Iron** to **Immortal**.
 
-Destaque para o uso de funções para modularizar o código, tornando-o mais limpo e organizado.
+A key highlight of this project is the use of functions to modularize the code, making it cleaner and more organized.
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 - **JavaScript (ES6+)**
 - **Node.js**
 
-## 🧠 Evolução Técnica
-Neste repositório, meu foco foi além da lógica básica:
-- **Modularização**: Implementação de funções para isolar a lógica de classificação.
-- **Template Literals**: Uso de interpolação de strings para mensagens mais legíveis no console.
-- **Cálculo Dinâmico**: O saldo de vitórias é processado antes de definir o nível do rank.
+## 🧠 Technical Evolution
+In this repository, I focused on going beyond basic logic:
+- **Modularization**: Implementation of functions to isolate the classification logic.
+- **Template Literals**: Use of string interpolation for more readable console messages.
+- **Dynamic Calculation**: The win balance is processed before defining the rank level.
 
-## 📊 Tabela de Classificação
-| Saldo de Vitórias | Nível |
+## 📊 Classification Table
+| Win Balance | Level |
 | :--- | :--- |
-| Menor que 10 | Ferro |
-| 11 a 20 | Bronze |
-| 21 a 50 | Prata |
-| 51 a 80 | Ouro |
-| 81 a 90 | Diamante |
-| 91 a 100 | Lendário |
-| Maior que 100 | Imortal |
+| Less than 10 | Iron |
+| 11 to 20 | Bronze |
+| 21 to 50 | Silver |
+| 51 to 80 | Gold |
+| 81 to 90 | Diamond |
+| 91 to 100 | Legendary |
+| More than 100 | Immortal |
 
-## 🚀 Como Executar
-1. Clone este repositório:
+## 🚀 How to Run
+1. Clone this repository:
    ```bash
    git clone [https://github.com/xtheredviper/ranked-match-calculator.git](https://github.com/xtheredviper/ranked-match-calculator.git)
